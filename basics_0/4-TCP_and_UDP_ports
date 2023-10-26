@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# A srcipt that displays listening ports inc pid and name
+ss -tuln -p
